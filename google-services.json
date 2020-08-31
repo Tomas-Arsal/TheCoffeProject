@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "404653904604",
+    "firebase_url": "https://tomas-c4ae7.firebaseio.com",
+    "project_id": "tomas-c4ae7",
+    "storage_bucket": "tomas-c4ae7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:404653904604:android:a03e07373ba2c6ba505a19",
+        "android_client_info": {
+          "package_name": "com.tomas.myrobert"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "404653904604-euf3mgar0r5caf7ka77aqif0kfo7o7dc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tomas.myrobert",
+            "certificate_hash": "fe4a29e9da03d5b945a02376177792a247c45de2"
+          }
+        },
+        {
+          "client_id": "404653904604-sh090spu0h64rtiucbdd8jife7t8gn1o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqaYxzavARBebhI5ND8-4tfnzy7tmpljc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "404653904604-sh090spu0h64rtiucbdd8jife7t8gn1o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
